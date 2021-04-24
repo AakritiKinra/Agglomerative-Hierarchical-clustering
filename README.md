@@ -1,4 +1,4 @@
-# Agglomerative hierarchical-clustering
+# Agglomerative Hierarchical Clustering
 
 This technique is a bottom up approach in which each datapoint is considered to be an individual cluster. In each iteration the similar clusters merge with other clusters to form either one cluster or K clusters.
 
